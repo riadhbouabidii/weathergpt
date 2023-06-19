@@ -2,15 +2,15 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+  title: "Riadh Nextjs App",
   description:
-    "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
+    "Riadh Nextjs App",
   twitter: {
     card: "summary_large_image",
     title:
-      "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+      "Riadh Nextjs App",
     description:
-      "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
+      "Riadh Nextjs App",
     creator: "@steventey",
   },
   metadataBase: new URL("https://weathergpt.vercel.app"),
