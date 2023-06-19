@@ -7,10 +7,7 @@ export function PageData({ data }: { data: any }) {
     <>
       <main>
         
-        <h1>You did it Riadh!</h1>
-        <p className="description">
-          Get the weather of any given location
-        </p>
+        <h1>Get the weather of any given location!</h1>
         <Illustration />
         <div className="meta">
           <div className="info">
