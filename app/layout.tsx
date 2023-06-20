@@ -11,9 +11,8 @@ export const metadata = {
       "Riadh Nextjs App",
     description:
       "Riadh Nextjs App",
-    creator: "@steventey",
+    creator: "@riadh",
   },
-  metadataBase: new URL("https://weathergpt.vercel.app"),
   themeColor: "#FFF",
 };
 
